@@ -1,6 +1,6 @@
 # Gerador-De-Senhas
 
-Aplicativo Mobile criado usando React Native para gerar Senhas aleatórias.
+Aplicativo Mobile criado usando **React Native** para gerar Senhas aleatórias.
 
 Por esse app poderá escolher entre 5 a 15 caracteres para gerar uma senha aleatória.
 
